@@ -1,0 +1,11 @@
+{
+    "template": "small",
+    "world": {
+        "chunk_edge_length_meters": 50,
+        "streaming_query_interval": 4,
+        "dimensions": {
+            "x_meters": 1000,
+            "z_meters": 1000
+        }
+    }
+ }
